@@ -1,0 +1,13 @@
+c:\users\ninik0\documents\visual studio 2017\Projects\project\project\bin\Debug\project.exe.config
+c:\users\ninik0\documents\visual studio 2017\Projects\project\project\bin\Debug\project.exe
+c:\users\ninik0\documents\visual studio 2017\Projects\project\project\bin\Debug\project.pdb
+c:\users\ninik0\documents\visual studio 2017\Projects\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+c:\users\ninik0\documents\visual studio 2017\Projects\project\project\obj\Debug\project.Form1.resources
+c:\users\ninik0\documents\visual studio 2017\Projects\project\project\obj\Debug\project.Properties.Resources.resources
+c:\users\ninik0\documents\visual studio 2017\Projects\project\project\obj\Debug\project.csproj.GenerateResource.Cache
+c:\users\ninik0\documents\visual studio 2017\Projects\project\project\obj\Debug\project.exe
+c:\users\ninik0\documents\visual studio 2017\Projects\project\project\obj\Debug\project.pdb
+c:\users\ninik0\documents\visual studio 2017\Projects\project\project\obj\Debug\project.iqtest.resources
+c:\users\ninik0\documents\visual studio 2017\Projects\project\project\obj\Debug\project.certificate.resources
+c:\users\ninik0\documents\visual studio 2017\Projects\project\project\obj\Debug\project.questionsfrom7.resources
+C:\Users\NINIK0\Documents\Visual Studio 2017\Projects\project\project\obj\Debug\project.answers.resources
